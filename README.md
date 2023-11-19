@@ -36,3 +36,9 @@ Obtener un libro por ID
 Listar todos los libros
 Salir
 Para cada opción, se tendrá que pedir los datos necesarios al usuario y/o mostrar los resultados pertinentes. La aplicación se ejecutará hasta que se pulse la opción de “salir”.
+
+### Notas del proyecto
+
+El proyecto ServiciosRest contiene el servidor de la aplicación y puede ser consultado con aplicaciones externas como Postman
+
+El proyecto ServiciosRestCliente contiene el cliente java que puede usarse junto a la aplicación servidora para realizar las consultas. El servicio cliente necesita que el servidor esté levantado para poder funcionar
